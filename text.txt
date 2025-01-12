@@ -1,0 +1,22 @@
+// Users Related Apis Required for these setup project
+
+1> Login register ki 
+2> Search user ki
+3> send request ki 
+4> Notificcation ki
+5> Accept request ki 
+
+// Chats Related Apis Required for these setup project
+
+1>Add Members ki
+2>Remove/Delete Members ki
+3>Leave group ki
+4>Get Messages ki
+
+
+// Admin Related Apis Required for these setup project
+1> Admin Log in Log Out ki
+2> Chats ki 
+3> Users ki
+4> Messages ki 
+5> Dashboard me charts ki 
